@@ -1,2 +1,2 @@
 # Macroeconomic-Talking-Points
-This repo contains concurrent macroeconomic talking points.
+This repository contains talking points on macroeconomics.
